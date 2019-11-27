@@ -3,7 +3,16 @@ channels:
   - bioconda
   - cvxgrp
   - defaults
+  - anaconda
+  - conda-forge
 dependencies:
+  - numpy
+  - pandas
+  - scipy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
   - perl-threaded=5.22.0=10
   - cvxcanon=0.1.1=py27_0
   - cvxpy=0.4.9=py27_0
@@ -63,7 +72,6 @@ dependencies:
   - libxcb=1.12=1
   - libxml2=2.9.4=0
   - markupsafe=0.23=py27_2
-  - matplotlib=1.5.1=np111py27_0
   - mistune=0.7.4=py27_0
   - mkl=2018.0.3=1
   - mkl_fft=1.0.6=py27h7dd41cf_0
@@ -74,8 +82,8 @@ dependencies:
   - ncurses=6.1=he6710b0_1
   - nose=1.3.7=py27_1
   - notebook=5.0.0=py27_0
-  - numpy=1.15.4=py27h1d66e8a_0
-  - numpy-base=1.15.4=py27h81de0dd_0
+  #- numpy=1.15.4=py27h1d66e8a_0
+  #- numpy-base=1.15.4=py27h81de0dd_0
   - openblas=0.2.14=4
   - openssl=1.1.1a=h7b6447c_0
   - pandas=0.20.1=np111py27_0
@@ -102,9 +110,7 @@ dependencies:
   - qtconsole=4.2.1=py27_0
   - readline=7.0=h7b6447c_5
   - scandir=1.5=py27_0
-  - scikit-learn=0.18.1=np111py27_1
-  - scipy=0.19.0=np111py27_0
-  - seaborn=0.7.1=py27_0
+  #- scikit-learn=0.18.1=np111py27_1
   - setuptools=27.2.0=py27_0
   - simplegeneric=0.8.1=py27_1
   - singledispatch=3.4.0.3=py27_0
