@@ -20,6 +20,12 @@ To do this, run the following command:
 
 ```conda env create -f env2.yml```
 
-## Repository Architecture
+## Repository folders
+
 This repository is broken up into several directories and subdirectories. Please
 see each directory for information regarding each file. 
+
+
+### **`notebooks`** 
+
+### **`datasets`** 
