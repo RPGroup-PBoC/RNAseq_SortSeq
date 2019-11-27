@@ -1,10 +1,10 @@
 name: neighbor2
 channels:
-  - bioconda
-  - cvxgrp
   - defaults
   - anaconda
   - conda-forge
+  - bioconda
+  - cvxgrp
 dependencies:
   - numpy
   - pandas
