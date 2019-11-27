@@ -18,7 +18,7 @@ The library requirements can be installed by executing the following command usi
 
 ``` pip install -r requirements.txt ```
 
-If you have [`conda`] you can also install the libraries by creating a conda environment.
+If you have `conda` you can also install the libraries by creating a conda environment.
 To do this, run the following command: 
 
 ```conda env create -f env2.yml```
