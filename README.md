@@ -4,7 +4,7 @@ Welcome to the tutorials repository for the RNAseq SortSeq project of the Rob Ph
 
 ## Run the tutorials in the cloud
 
-You can click this [link] (https://mybinder.org/v2/gh/RPGroup-PBoC/RNAseq_SortSeq/tutorials) (or the badge below) to start a Binder container of the repo. 
+You can click this [link](https://mybinder.org/v2/gh/RPGroup-PBoC/RNAseq_SortSeq/tutorials) (or the badge below) to start a Binder container of the repo. 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RPGroup-PBoC/RNAseq_SortSeq/tutorials)
 
