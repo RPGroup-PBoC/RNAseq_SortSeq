@@ -10,11 +10,11 @@ def pboc_style_mpl():
     Physical Biology of the Cell, 2nd edition.
     """
     rc = {'lines.linewidth': 1.25,
-          'axes.labelsize': 8,
+          'axes.labelsize': 18,
           'axes.titlesize': 9,
           'axes.facecolor': '#E3DCD0',
-          'xtick.labelsize': 7,
-          'ytick.labelsize': 7,
+          'xtick.labelsize': 'large',
+          'ytick.labelsize': 'large',
           'font.family': 'Helvetica',
           'grid.linestyle': '-',
           'grid.linewidth': 0.5,
@@ -22,7 +22,7 @@ def pboc_style_mpl():
           'legend.fontsize': 8,
           'figure.dpi': 300,
           'savefig.dpi': 300}
-    plt.rc('text.latex', preamble=r'\usepackage{sfmath}')
+    #plt.rc('text.latex', preamble=r'\usepackage{sfmath}')
     plt.rc('xtick.major', pad=-1)
     plt.rc('ytick.major', pad=-1)
     plt.rc('mathtext', fontset='stixsans', sf='sansserif')
