@@ -18,15 +18,12 @@ import sys
 import matplotlib
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
-from IPython.core.pylabtools import figsize
-from mpl_toolkits.axes_grid1 import make_axes_locatable
 
 # Logo-generating module
 import pandas as pd
 import numpy as np
 
 import matplotlib.pyplot as plt
-from Bio import Seq
 import sys
 import scipy as sp
 
