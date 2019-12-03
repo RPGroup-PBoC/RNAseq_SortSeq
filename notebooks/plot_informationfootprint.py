@@ -5,9 +5,6 @@
 
 from __future__ import division
 import os
-import glob
-import pickle
-import re
 
 # Our numerical workhorses
 import numpy as np
@@ -69,7 +66,7 @@ def choose_dict(dicttype,modeltype='MAT'):
     return seq_dict,inv_dict
 
 def sliding_window(y,windowsize=3):
-    out_vec = np.zeros_like(y)
+    out_vec = np.zeros((len(y)-windowsize))
     for i in range(len(y)-windowsize):
         out_vec[i] = np.sum(y[i:i+windowsize])/windowsize
     return out_vec
@@ -101,6 +98,7 @@ def effect_df_to_prob_df(effect_df,bg_df,beta):
 #differing mutation rates, we will just arbitrarily set the ratio to be 50/50
 
 def main(inarr,for_clip=False,seqlength=160,for_invert=False):
+    windowsize=3
 
     background_array =pd.DataFrame( [[.5,.5]])
 
@@ -127,7 +125,7 @@ def main(inarr,for_clip=False,seqlength=160,for_invert=False):
     y_sub_normed = y_sub_smoothed/maxval/2 + 0.5
 
     colorinputs = np.zeros((seqlength))
-    for i in range(seqlength):
+    for i in range(seqlength-windowsize):
         if y_sub_smoothed[i] < 0:
             colorinputs[i] = 0.0
         else:
@@ -166,12 +164,12 @@ def main(inarr,for_clip=False,seqlength=160,for_invert=False):
         else:
             mutinfo[i] = -1*calcinfo(mut2arr[:,i],mutbgprob)
     tempoutdf = pd.DataFrame()
-    tempoutdf['pos'] = range(seqlength)
+    tempoutdf['pos'] = range(1,seqlength-windowsize+1)
     tempoutdf['info'] = sliding_window(mutinfo)
 
 
 
-    smoothinfo = sliding_window(np.abs(mutinfo))
+    smoothinfo = sliding_window(np.abs(mutinfo),windowsize=windowsize)
 
     shiftcolors = plt.cm.bwr(colorinputs)
     return np.abs(smoothinfo), shiftcolors
