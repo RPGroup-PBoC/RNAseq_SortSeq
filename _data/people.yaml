@@ -9,23 +9,24 @@
 # of the `page01_people.md` file.
 # ##############################################################################
 - author:
-  name: Dr. Osophila
-  link: "https://en.wikipedia.org/wiki/Drosophila"
-  title: Postdoctoral Scholar
+  name: William Ireland.
+  link: 
+  title: Grad student
   img: dr_osophila.jpg
-  institute: Bicoid Institute of Development
+  institute: Caltech, Physics Grad program
   other_info:
      Email Address: "flyguy@university.edu"
 - author:
-  name: Dr. Melanie O'Gaster
-  link: "https://en.wikipedia.org/wiki/Drosophila_melanogaster"
-  title: Postdoctoral Scholar
+  name: Suzy Beeler
+  link: "sbeleer.github.io"
+  title: Grad student
   img: melanogaster.jpg
-  institute: French Flag Research Institute
+  institute: Caltech, Biology program
   other_info:
-    Current Location: Apple Juice Plates, Inc
+    Current Location: 
 
 - author:
-  name: Sally Monella
-  title: Research Technician
-  institute: French Flag Research Institute
+  name: Manu Flores
+  title: Grad Student
+  institute: Caltech, BMB program
+  
