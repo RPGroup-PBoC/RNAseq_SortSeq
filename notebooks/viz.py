@@ -2,6 +2,9 @@
 import matplotlib.pyplot as plt 
 import matplotlib as mpl
 import seaborn as sns
+import matplotlib
+from matplotlib import rcParams
+
 
 # Default RP plotting style
 def pboc_style_mpl():
