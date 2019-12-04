@@ -16,13 +16,13 @@ authors: >
 Abstract: >
   While advances in DNA sequencing have enabled widespread access to this
   groundbreaking technology, even in the case of arguably one of biology's
-  best understood organisms, the bacterium {\it Escherichia coli}, 35\% of
+  best understood organisms, the bacterium *Escherichia coli, 35\% of
   its genes are of unknown function. Moreover, for $\approx$ 65\% of the
-  promoters in {\it E. coli} we remain completely ignorant of their regulation.
+  promoters in *E. coli* we remain completely ignorant of their regulation.
   Until we have cracked this regulatory Rosetta Stone, efforts to read and write 
   genomes at will remain incomplete and haphazard. In this paper, we introduce
   a new method for unraveling the regulatory genome of a broad array of genes 
-  in {\it E. coli}. Specifically, we show that we can extract known regulatory 
+  in *E. coli*. Specifically, we show that we can extract known regulatory 
   information for a set of known genes and unmask the regulatory architectures 
   for more than 80 uncharacterized promoters, and in many of those cases, 
   which transcription factors mediate this regulation. Though the entirety 
@@ -34,15 +34,6 @@ Abstract: >
   characterizing the regulatory genome of model organisms and then moving on 
   to an array of other microbes of ecological and medical relevance.
 
-Summary:  >
-  A short summary of your work goes here. Think "significance statement".
-  Nisi bushwick seitan et authentic aute, laboris blog sed in wayfarers lyft
-  plaid ut. Id aesthetic venmo, palo santo aliqua photo booth blue bottle.
-  Meditation non copper mug lomo glossier kombucha. Cred laboris meditation
-  poke sriracha street art letterpress food truck master cleanse adipisicing.
-  Hashtag affogato chambray vaporware subway tile, kogi helvetica ea tacos sint
-  brooklyn. Williamsburg waistcoat raclette seitan glossier messenger bag
-  dolore ramps, flannel magna nisi hot chicken elit pariatur kale chips.
 
 Acknowledgments: >
   Experimentally, we would like to thank Jost Vielmetter and Nina Budaeva provided 
