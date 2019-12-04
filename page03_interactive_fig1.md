@@ -3,7 +3,7 @@ layout: page
 title: Interactive Figure 1
 permalink: interactive_a
 sidebar: true
-interactive: interactive_1.html
+interactive: main_interactive_fig.html
 ---
 ---
 
