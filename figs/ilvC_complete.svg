@@ -37,7 +37,7 @@
        x2="38.162601"
        y2="222.851"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5530205,0,0,1.5530205,495.15117,-118.78937)"
+       gradientTransform="matrix(1.5530205,0,0,1.5530205,495.15083,-118.78996)"
        id="linearGradient118"><stop
          style="stop-opacity:1;stop-color:#c0d598"
          offset="0"
@@ -136,7 +136,7 @@
      inkscape:cx="499.41562"
      inkscape:cy="167.23813"
      inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="g10" /><g
      id="g10"
@@ -1902,7 +1902,7 @@
          x="0 3.6253324 9.6832981 146.58388 150.20921 156.26717"
          y="0"
          sodipodi:role="line"
-         id="tspan1098">-30-25</tspan><tspan
+         id="tspan1098">-20-15</tspan><tspan
          x="290.1683 296.22626 298.67068"
          y="-70.853401"
          sodipodi:role="line"

@@ -147,7 +147,7 @@
        x2="38.162601"
        y2="222.851"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5530205,0,0,1.5530205,466.56068,-267.82784)"
+       gradientTransform="matrix(1.5530205,0,0,1.5530205,466.56035,-267.82843)"
        id="linearGradient592"><stop
          style="stop-opacity:1;stop-color:#c0d598"
          offset="0"
@@ -176,7 +176,7 @@
      inkscape:cx="389.375"
      inkscape:cy="72.1875"
      inkscape:window-x="65"
-     inkscape:window-y="24"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="g10" /><g
      id="g10"
@@ -797,10 +797,10 @@
              style="fill:#fbb216;fill-opacity:1;fill-rule:nonzero;stroke:none"
              id="path542"
              inkscape:connector-curvature="0" /></g></g></g><text
-       transform="matrix(1,0,0,-1,189.3252,7.4512)"
+       transform="matrix(1,0,0,-1,162.8252,7.4512)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.80889988px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text544"><tspan
-         x="0 -136.49907 -132.87375"
+         x="0 -136.0031 -132.37776"
          y="0"
          sodipodi:role="line"
          id="tspan546">0-5</tspan></text>

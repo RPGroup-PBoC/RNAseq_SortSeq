@@ -37,7 +37,7 @@
        x2="38.162601"
        y2="222.851"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5379808,0,0,1.6605968,483.30608,-137.58244)"
+       gradientTransform="matrix(1.5379808,0,0,1.6605968,483.30575,-137.58307)"
        id="linearGradient82"><stop
          style="stop-opacity:1;stop-color:#c0d598"
          offset="0"
@@ -60,7 +60,7 @@
        x2="38.162601"
        y2="222.851"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5379808,0,0,1.6605968,455.39299,-137.58244)"
+       gradientTransform="matrix(1.5379808,0,0,1.6605968,455.39266,-137.58307)"
        id="linearGradient146"><stop
          style="stop-opacity:1;stop-color:#c0d598"
          offset="0"
@@ -1407,15 +1407,15 @@
          x="0 3.6494932 9.7478323"
          y="0"
          sodipodi:role="line"
-         id="tspan698">-90</tspan><tspan
-         x="420.50006 424.14957 430.24789 670.99561 674.64508 545.9975 549.64697 555.7453"
+         id="tspan698">-80</tspan><tspan
+         x="420.50006 424.14957 430.24789 667.99988 671.64941 677.74774 545.9975 549.64697 555.7453"
          y="140.00027"
          sodipodi:role="line"
-         id="tspan700">-15-5-10</tspan><tspan
+         id="tspan700">-25-15-20</tspan><tspan
          x="102.5781 106.22759 112.32594 203.56326 207.21275 213.3111"
          y="0"
          sodipodi:role="line"
-         id="tspan702">-80-70</tspan><tspan
+         id="tspan702">-70-60</tspan><tspan
          x="319.56247 325.6608 328.12152"
          y="-70.445915"
          sodipodi:role="line"
@@ -2132,7 +2132,7 @@
          x="0 3.6156926 9.6575499 90.733856 94.349556 100.39141 182.50414 186.11983 192.1617"
          y="0"
          sodipodi:role="line"
-         id="tspan1154">-50-45-40</tspan><tspan
+         id="tspan1154">-40-35-30</tspan><tspan
          x="285.21573 291.25757 293.69553"
          y="-75.894211"
          sodipodi:role="line"

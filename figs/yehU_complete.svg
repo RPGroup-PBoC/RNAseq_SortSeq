@@ -37,7 +37,7 @@
        x2="38.162601"
        y2="222.851"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.5257374,0,0,1.6473774,428.33989,-277.15962)"
+       gradientTransform="matrix(1.5257374,0,0,1.6473774,428.33956,-277.16025)"
        id="linearGradient104"><stop
          style="stop-opacity:1;stop-color:#c0d598"
          offset="0"
@@ -346,7 +346,7 @@
      inkscape:cx="400.83313"
      inkscape:cy="78.4375"
      inkscape:window-x="65"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:window-maximized="0"
      inkscape:current-layer="g10" /><g
      id="g10"
@@ -365,23 +365,23 @@
          sodipodi:role="line"
          id="tspan16">-0.05</tspan></text>
 <text
-       transform="matrix(1,0,0,-1,78.2798,5.3428)"
+       transform="matrix(1,0,0,-1,56.2798,5.3428)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.79730034px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text18"><tspan
-         x="0 3.6217711 9.6737862 114.94109 118.56287 124.61488 226.16603 229.78781 235.83983"
+         x="0 3.6217711 9.6737862 113.608 117.22977 123.28178 226.82669 230.44846 236.50047"
          y="0"
          sodipodi:role="line"
-         id="tspan20">-45-35-25</tspan><tspan
-         x="-63.552055"
+         id="tspan20">-40-30-20</tspan><tspan
+         x="-41.56189"
          y="-71.762978"
          id="tspan22">A</tspan><tspan
-         x="-63.363297"
+         x="-41.373131"
          y="-54.067024"
          id="tspan24">C</tspan><tspan
-         x="-63.752609"
+         x="-41.762444"
          y="-36.371075"
          id="tspan26">G</tspan><tspan
-         x="-62.867813"
+         x="-40.877644"
          y="-18.675125"
          id="tspan28">T</tspan></text>
 <text
