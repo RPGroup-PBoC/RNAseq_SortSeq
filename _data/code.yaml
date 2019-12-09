@@ -1,11 +1,11 @@
 - script:
-  name: script1.py
+  name: information_footprint.py
   desc: >
-    Super fancy script which calcualate some complicated stuff with
-    well-documented code.
+    Information footprint script.
 - script:
-  name: script2.py
+  name: automatic_tf_finding.py
   desc: >
-    Yet another script that does something-or-other.
+    Automatically finds potential TF binding sites from information footprints
+    using a statistical test.
 
 
