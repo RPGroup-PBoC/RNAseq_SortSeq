@@ -2,11 +2,11 @@
 
 This is a repo for the website of RNAseq SortSeq. 
 
-## About RNAseq Sort Seq 
+# About RNAseq Sort Seq 
 
-## Attributions 
+# Attributions 
 
-## Acknowledgements. 
+# Acknowledgements. 
 
 
 The repo is based on the [`reproducible_website`](https://github.com/gchure/reproducible_website) by [gchure](https://github.com/gchure/). 
