@@ -1,0 +1,55 @@
+# ##############################################################################
+# ABOUT
+# ------------------------------------------------------------------------------
+# This data file contains all information that will be displayed on the home
+# page of your website. The fields `title` and `authors` are necessary. These
+# keys cannot be changed or they will not be displayed on the website. 
+#
+# The remainder of the fileds can be changed to fit your needs. The field name
+# (e.g. abstract, summary, etc) Will appear with as H2 headings on the website.
+# The content below will appear 
+
+title: >
+  RNAseq Sort Seq
+authors: >
+  William T. Ireland, Suzannah M. Beeler, Emanuel Flores-Bautista, Nathan
+  M. Belliveau, Michael J. Sweredoski, Annie Moradian, Justin Kinney, 
+  Rob Phillips
+
+Abstract: >
+  While advances in DNA sequencing have enabled widespread access to this
+  groundbreaking technology, even in the case of arguably one of biology's
+  best understood organisms, the bacterium *Escherichia coli*, 35% of
+  its genes are of unknown function. Moreover, for approximately 65% of the
+  promoters in *E. coli* we remain completely ignorant of their regulation.
+  Until we have cracked this regulatory Rosetta Stone, efforts to read and write 
+  genomes at will remain incomplete and haphazard. In this paper, we introduce
+  a new method for unraveling the regulatory genome of a broad array of genes 
+  in *E. coli*. Specifically, we show that we can extract known regulatory 
+  information for a set of known genes and unmask the regulatory architectures 
+  for more than 80 uncharacterized promoters, and in many of those cases, 
+  which transcription factors mediate this regulation. Though the entirety 
+  of our array of discoveries and dataset are provided in online format, in 
+  the paper itself we focus on several case studies that exhibit the power of 
+  our methods to uncover the regulatory genome, featuring broadly acting 
+  transcriptional regulators (GlpR and FNR) and a case study in multiplexing 
+  of a bacterial promoter. The method introduced here clears a path for fully 
+  characterizing the regulatory genome of model organisms and then moving on 
+  to an array of other microbes of ecological and medical relevance.
+
+
+Acknowledgments: >
+  Experimentally, we would like to thank Jost Vielmetter and Nina Budaeva provided 
+  access to their Cell Disruptor. Brett Lomenick provided crucial help and advice 
+  with protein preparation. We also thank Igor Antoshechkin for his help with sequencing 
+  at the Caltech Genomics Facility. We also thank Stephanie Barnes, Griffin Chure, 
+  Hernan Garcia, Soichi Hirokawa, Heun Jin Lee, Muir Morrison, Manuel Razo-Mejia 
+  and Gabe Salmon for useful discussion. Guillaume Urtecho and Sri Kosuri have been 
+  instrumental in providing key advice and protocols at various stages in the development 
+  of this work. 
+
+Funding: 
+ We are deeply grateful for support from NIH Grants DP1 OD000217 (Director's Pioneer Award) 
+ and  1R35 GM118043-01 (Maximizing Investigators Research Award) which made it possible to 
+ undertake this multi-year project.  N.M.B. was supported by an HHMI  International Student 
+ Research Fellowship. S.M.B was supported by the NIH training grant.

@@ -1,0 +1,10 @@
+- fig:
+  title: "Fig. 1: Information footprint "
+  filename: script1.py
+  desc:  Used to generate an illustrative footprint plot. 
+  pic: fig1.png
+  req:
+    - ds: 
+      storage: remote
+      title: Dataset 1
+      link: "http://data.caltech.edu"
