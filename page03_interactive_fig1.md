@@ -8,10 +8,13 @@ interactive: main_interactive_fig.html
 ---
 
 ## Figure Description
-Below is an example of an embedded interactive figure. It generates
-two-dimensional random walks of 10,000 steps each time the button is clicked.
-Moving the slider shows you in finer detail the position and history of the past
-500 steps.
+Below is an interactive figure that displays the information footprint
+for each gene and each growth condition ran in this experiment. The gene
+and growth condition are chosen using the drop down boxes on the left. The
+gene regulatory architecture, with identified transcription factors, and their
+DNA-protein energy matrix for each transcription factor is displayed. 
+
+
 
 <!-- The below line includes the interactive figure. Do not change! -->
 <center>
@@ -20,4 +23,11 @@ Moving the slider shows you in finer detail the position and history of the past
 
 </center>
 
+The maximum information value displayed in the figure is set by to be the 
+maximum value of the uncertainty in the information values for any of the 
+displayed base pairs for the gene and growth condition combination. If 
+the dataset for the gene and growth condition are unavailable then no
+information footprint will be displayed. If a repressor or activator cartoon are
+displayed without a protein name, then the identity of the binding site is
+unknown.
 
