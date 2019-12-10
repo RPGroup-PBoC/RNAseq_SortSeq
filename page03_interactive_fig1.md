@@ -12,7 +12,8 @@ Below is an interactive figure that displays the information footprint
 for each gene and each growth condition ran in this experiment. The gene
 and growth condition are chosen using the drop down boxes on the left. The
 gene regulatory architecture, with identified transcription factors, and their
-DNA-protein energy matrix for each transcription factor is displayed. 
+DNA-protein energy matrix for each transcription factor is displayed below
+the information footprint. 
 
 
 
@@ -22,6 +23,34 @@ DNA-protein energy matrix for each transcription factor is displayed.
 {% include_relative interactives/{{page.interactive}} %}
 
 </center>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The regulatory cartoons are meant to be coarse grained representations of the
+regulation. For example, an activator upstream of an RNAP in the regulatory
+cartoon indicates an activator upstream of an RNAP site in the wild-type gene
+but the exact distance between the RNAP site and the cartoon is not significant.
 
 The maximum information value displayed in the figure is set by to be the 
 maximum value of the uncertainty in the information values for any of the 
