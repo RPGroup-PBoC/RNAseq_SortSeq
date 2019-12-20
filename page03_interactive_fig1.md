@@ -8,9 +8,9 @@ interactive: main_interactive_fig.html
 ---
 
 ## Figure Description
-Below is an interactive figure that displays the information footprint
-for each gene and each growth condition ran in this experiment. The gene
-and growth condition are chosen using the drop down boxes on the left. The
+This website provides interactive figures of information footprints, energy matrices
+and regulatory cartoons for all of the genes and growth conditions considered in our experiments.
+The gene and growth condition are chosen using the drop down boxes on the left. The
 gene regulatory architecture, with identified transcription factors, and their
 DNA-protein energy matrix for each transcription factor is displayed below
 the information footprint. 
