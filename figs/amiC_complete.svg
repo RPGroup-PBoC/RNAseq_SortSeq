@@ -16,7 +16,7 @@
    width="778.75"
    height="144.375"
    viewBox="0 0 778.75 144.375"
-   sodipodi:docname="yehS_complete.svg"><metadata
+   sodipodi:docname="amiC_complete.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
@@ -42,7 +42,7 @@
      inkscape:current-layer="g10" /><g
      id="g10"
      inkscape:groupmode="layer"
-     inkscape:label="yehS_complete"
+     inkscape:label="amiC_complete"
      transform="matrix(1.25,0,0,-1.25,0,144.375)"><g
        id="g12"
        transform="translate(441.2793,82.7588)"><path
@@ -54,13 +54,13 @@
        style="fill:#ffedcd;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="path16"
        inkscape:connector-curvature="0" /><text
-       transform="matrix(1,0,0,-1,517.2202,85.6655)"
+       transform="matrix(1,0,0,-1,515.5537,85.6655)"
        style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.66250038px;font-family:'Myriad Pro';-inkscape-font-specification:MyriadPro-Regular;writing-mode:lr-tb;fill:#221f1f;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text18"><tspan
-         x="0 4.0800376 8.4199495 13.227637"
+         x="0 4.1753249 11.39985 13.426875"
          y="0"
          sodipodi:role="line"
-         id="tspan20">yehS</tspan></text>
+         id="tspan20">amiC</tspan></text>
 <path
        d="m 438.788,23.574 165.493,0 0,14.782 -165.493,0 0,-14.782 z"
        style="fill:#f0d4c8;fill-opacity:1;fill-rule:nonzero;stroke:none"
