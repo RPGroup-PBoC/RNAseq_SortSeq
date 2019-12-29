@@ -2,6 +2,14 @@
   storage: remote 
   link: "https://data.caltech.edu"
   DOI:  "10.1.1./journal.0000"
-  name: "Energy matrices datasets for all of the genes in the paper."
+  name: "MCMC inference of expression shift for all genes in the paper."
   filetype: .zip 
   filesize: 2 gb
+- dataset:
+  storage: remote 
+  link: "https://data.caltech.edu"
+  DOI:  "10.1.1./journal.0000"
+  name: "Datasets used to generate all figures in the paper."
+  filetype: .zip 
+  filesize: 100 mb
+
