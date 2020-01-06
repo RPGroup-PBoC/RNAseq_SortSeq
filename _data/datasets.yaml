@@ -12,4 +12,11 @@
   name: "Datasets used to generate all figures in the paper."
   filetype: .zip 
   filesize: 100 mb
-
+- dataset:
+  storage: remote 
+  link: "https://raw.githubusercontent.com/RPGroup-PBoC/RNAseq_SortSeq/tutorials/MCMC.tar.gz"
+  DOI:  "10.1.1./journal.0000"
+  name: "The datasets to use with the tutorial notebooks. Download and extract
+  this folder to use the notebooks."
+  filetype: .zip 
+  filesize: 100 mb
