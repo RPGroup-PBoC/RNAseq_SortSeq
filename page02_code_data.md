@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Code and Data
-img: code.png # Add image post (optional)
+img: cartoons3.jpg
 permalink: code
 sidebar: true
 ---
