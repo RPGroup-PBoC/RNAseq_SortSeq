@@ -18,5 +18,9 @@
   name: peak_utils.py
   desc: >
     Support functions for the auto_peak_call.ipynb notebook.
+- script:
+  name: software.tar.gz
+  desc: >
+    All code files with associated data files in the right directory structure.
 
 
