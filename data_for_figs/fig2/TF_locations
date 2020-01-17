@@ -1,0 +1,95 @@
+#this dataset contains all TF locations identified and shown in figure 2
+#of the paper. Columns are as follows.
+#gene: the gene regulated
+#feat_num: the labeled number of important regions for this gene
+#start: first base of the binding site
+#end: the end of the binding site will be 15 bases after this number.
+#type: repressor or activator, this is identified by whether or not expression
+#    shift is positive or negative
+#growth: one type of growth condition in which this transcription factor exists
+#RNAP -11 location. 
+
+gene,feat_num,start,end,type,growth,RNAP
+WaaA-coaD,2,60,73,act,xylara,102
+aegA,0,107,110,rep,xylara,105
+aphA,0,23,28,act,xylara,103
+aphA,1,44,80,act,Anaero,103
+araAB,0,8,27,rep,arabinose,102
+araAB,1,31,82,rep,arabinose,102
+araC,1,24,40,act,Anaero,83
+araC,0,0,8,act,Anaero,83
+arcA,0,12,37,act,Anaero,103
+asnA,0,10,13,act,Tre,105
+asnA,0,32,34,act,heat,105
+bdcR,1,87,90,rep,Fe,105
+cra,0,35,36,act,Anaero,103
+dicC,0,106,118,rep,Fe,104
+dinJ,1,21,35,act,xylara,104
+dinJ,3,83,84,rep,xylara,104
+dinJ,4,119,121,rep,LB,104
+fdhE,0,46,53,act,Anaero,103
+fdhE,3,70,76,act,Anaero,103
+fdoH,1,81,84,rep,Anaero,6
+groSL,0,123,124,rep,xylara,133
+iap,2,115,121,act,Anaero,104
+idnK,0,74,82,rep,xylara,103
+idnK,0,25,34,act,Anaero,103
+ilvC,1,82,87,rep,metal,107
+ilvC,0,38,39,act,xylara,107
+ilvC,1,46,63,act,xylara,107
+leuABCD,1,92,103,rep,arabinose,104
+maoP,4,99,100,rep,heat,94
+maoP,2,51,75,act,heat,94
+maoP,1,26,44,act,heat,94
+minC,0,38,41,act,arabinose,103
+mscL,0,54,56,act,metal,102
+mscM,0,37,48,act,Fe,150
+mscS,0,90,91,act,SS,104
+pcm,0,38,41,rep,metal,104
+rapA,1,106,118,rep,heat,105
+rlmA,0,41,51,act,LB,106
+rspA,0,48,85,act,metal,120
+rspA,1,89,104,rep,xylara,120
+sdiA,0,25,41,rep,Anaero,60
+tar,0,110,127,rep,Tre,146
+tff-rpsB-tsf,1,106,110,rep,heat,103
+thiM,0,26,30,rep,Anaero,104
+thrLABC,0,56,60,act,Anaero,101
+tig,2,108,112,rep,heat,104
+xylA,0,16,81,act,xylara,104
+xylF,0,31,54,act,xylara,104
+xylF,1,62,80,act,xylara,104
+ybeZ,1,57,61,act,Anaero,144
+ybeZ,0,13,14,act,Anaero,144
+ybiO,0,102,103,rep,heat,134
+ybiO,0,38,39,act,Fe,134
+ycgB,0,67,70,rep,heat,104
+ydjA,1,103,105,rep,Fe,102
+yecE,2,109,112,rep,heat,114
+yecE,3,119,124,rep,heat,114
+yedJ,0,12,17,rep,Anaero,85
+yedJ,1,48,70,rep,Anaero,85
+yehS,1,128,129,rep,heat,123
+yehU,0,31,33,act,Anaero,107
+yehU,1,53,85,rep,Anaero,107
+ycbZ,0,97,111,rep,107
+yeiQ,0,35,41,act,Anaero,103
+yicI,0,2,6,act,arabinose,121
+yicI,1,75,76,act,arabinose,121
+yicI,1,47,51,act,Fe,121
+ykgE,0,2,56,act,Anaero,74
+ykgE,2,75,90,rep,Anaero,74
+ymgG,0,61,74,act,heat,103
+ymgG,0,45,46,rep,arabinose,103
+znuCB,0,47,53,act,Anaero,104
+znuCB,1,101,106,rep,Anaero,104
+mscL,0,16,17,act,LB,102
+phnA,0,80,80,rep,M9,104
+ybjX,0,21,30,act,LB,103
+ybjX,1,73,75,act,LB,103
+ybjX,2,21,30,rep,M9,
+ybjX,3,21,30,rep,M9,
+mutM,0,90,91,rep,M9,104
+yjjJ,0,109,106,rep,SS,126
+uvrD,0,119,120,rep,acetate,103
+dusC,0,81,87,rep,arabinose,92
