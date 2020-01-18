@@ -23,11 +23,13 @@ see each directory for information regarding each file.
 
 ### **`results`** 
 
-The Reg-Seq paper is contained in the main repository, figures for mass spectrometry enrichments, as well as lists of sigma factor identities and transcription factor binding site locations are contained in the results folder. 
+The Reg-Seq paper is contained in the main repository, figures for mass spectrometry enrichments, as well as lists of sigma factor identities and transcription factor binding site locations are contained in the results folder. All information footprints from this experiment are also contained here.  
 
 ### **`datasets`** 
 
 All of the processed datasets are stored here. The datasets folder contains what you'll need to run the
 analysis code and/or explore the results from our paper.
 
+### **`figs`**
 
+The figs folder contains all the source figures for use in the interactive figure for the Reg-Seq project. https://www.rpgroup.caltech.edu/RNAseq_SortSeq/interactive_a
