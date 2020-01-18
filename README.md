@@ -1,16 +1,8 @@
-# RNAseq_SortSeq
+# Reg-Seq
 
-Welcome to the tutorials repository for the RNAseq SortSeq project of the Rob Phillips Lab at Caltech! 
+Welcome to the repository for the Reg-Seq project of the Rob Phillips Lab at Caltech! 
 
-## Run the tutorials in the cloud
-
-You can click this [link](https://mybinder.org/v2/gh/RPGroup-PBoC/RNAseq_SortSeq/tutorials) (or the badge below) to start a Binder container of the repo. 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RPGroup-PBoC/RNAseq_SortSeq/tutorials)
-
-
-## Run the tutorials locally
-
+## Go to the tutorials branch to work through the analysis code for the Reg-Seq project
 
 All of the code use in this repo is python-based.
 The library requirements can be installed by executing the following command using
@@ -29,13 +21,13 @@ This repository is broken up into several directories and subdirectories. Please
 see each directory for information regarding each file. 
 
 
-### **`notebooks`** 
+### **`results`** 
 
-This is where the tutorials live. 
+The Reg-Seq paper is contained in the main repository, figures for mass spectrometry enrichments, as well as lists of sigma factor identities and transcription factor binding site locations are contained in the results folder. 
 
 ### **`datasets`** 
 
-All of the data is stored here. The datasets contain what you'll need to run the
-tutorials and/or explore the results from our paper.
+All of the processed datasets are stored here. The datasets folder contains what you'll need to run the
+analysis code and/or explore the results from our paper.
 
 
