@@ -1,4 +1,4 @@
-# RNAseq_SortSeq tutorials 
+# RNAseq_SortSeq
 
 Welcome to the tutorials repository for the RNAseq SortSeq project of the Rob Phillips Lab at Caltech! 
 
