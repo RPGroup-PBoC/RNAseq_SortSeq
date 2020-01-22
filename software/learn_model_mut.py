@@ -121,11 +121,17 @@ df = pd.io.parsers.read_csv(sys.argv[1],delim_whitespace=True)
 temp_seq_mat,wtrow = numerics.dataset2mutarray(df.copy(),'MAT')
 temp_seq_mat2 = temp_seq_mat.toarray()
 
-
+#we need a parameter for the effect of mutation at each base pair.
+#we remove 20 base pairs to remove the barcode sequence on the end of the sequence.
+len_seq = len(df.loc[0,'seq'])
+len_outputseq = len_seq - 20
+len_barcode = 20
+#We add 4 parameters for the barcode, because 
+total_params = len_outputseq + len_barcode*4
 seq_mat = np.zeros((temp_seq_mat2.shape[0],total_params))
 for i in range(len_outputseq):
     seq_mat[:,i] = np.sum(temp_seq_mat2[:,i*4:(i*4+4)],axis=1)
-seq_mat[:,len_outputseq:] = temp_seq_mat2[:,-80:]
+seq_mat[:,len_outputseq:] = temp_seq_mat2[:,-len_barcode*4:]
 seq_mat = scipy.sparse.csr_matrix(seq_mat)
 emat_0 = np.zeros((4,len_seq))
 emat_0[:2,:len_outputseq] = utils.RandEmat(len_outputseq,2)
